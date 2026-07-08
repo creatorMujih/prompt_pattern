@@ -1,1 +1,2 @@
-# prompt_pattern
+# prompt-patterns
+
